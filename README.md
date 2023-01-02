@@ -24,8 +24,8 @@ The app will get a design overhaul once the basic features have been fully mappe
 To get started with the app, clone the repository and open it in your preferred Flutter development environment. Then, run the app using the instructions for your environment.
 
 ``` bash
-git clone https://github.com/marvinmuenger/FlutterNotes.git
-cd flutter-markdown-notes
+git clone https://github.com/marvinmuenger/flutternotes.git
+cd flutternotes
 flutter run
 ```
 
