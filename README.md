@@ -1,4 +1,4 @@
-# Flutter Markdown Notes
+# Flutter Notes
 
 This is a Proof of Concept for a Flutter app that supports taking and organizing notes. Each note has a title and body, and can be added and edited within the app. The app uses a `Note` class to represent a single note, and a `NoteProvider` class to manage a list of `Note` objects and provide methods for adding and updating notes.
 
